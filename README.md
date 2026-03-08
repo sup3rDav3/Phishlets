@@ -1,6 +1,7 @@
 Only tested on Evilginx community edition.
 
-How to run:
+**How to run:**  
+
 python3 phishlet_gen.py --platform google --edition community --output google.yaml
 python3 phishlet_gen.py --platform m365 --edition community --output m365.yaml
 
